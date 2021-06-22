@@ -1,17 +1,19 @@
 # **Machine_Learning**
 
-![download](/Desktop/download.png)
+(/Desktop/download.png)
 
-##In class we have been 
+In class we have been 
 
-#Steps:
+Steps:
 
-Create a data frame in pandas/python
+  1. Import SQL datframe into python
+ 
+  2. Create a data frame in pandas/python
 
-Use EDA methods to explore the data
+  3. Use EDA methods to explore the data
 
-Identify any needed clean steps 
+  4. Identify any needed clean steps 
 
-What pre-processing needed for this model? 
+  5. What pre-processing needed for this model? 
 
-T-T split and Run the model
+  6. T-T split and Run the model
