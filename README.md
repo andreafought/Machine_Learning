@@ -1,6 +1,6 @@
 # **Machine_Learning**
 
-[]!(download.png)
+![](download.png)
 
 In class we have been 
 
